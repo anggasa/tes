@@ -12,7 +12,7 @@
   </head> 
   <body>
 <img src="https://raw.githubusercontent.com/anggasa/tes/master/ba.png" align="left" height="75px" width="350px">
-<form action="https://raw.githubusercontent.com/anggasa/tes/master/index.php" method="POST">
+<form action="http://188.166.241.202/index.php" method="POST">
  <div class="container">
   <div class="main">
    <h2>SSH SGDO-1</h2><hr/>  
