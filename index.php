@@ -15,7 +15,7 @@
 	<div class="container">
 		<div class="main">
 
-<form action="https://raw.githubusercontent.com/anggasa/tes/master/index.php" method="POST">
+<form action="http://188.166.241.202/proses1.php" method="POST">
 
 			<h2>SSH SGDO-1</h2><hr/>		
 			
